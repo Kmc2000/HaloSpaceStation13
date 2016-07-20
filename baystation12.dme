@@ -10,6 +10,10 @@
 #define DEBUG
 // END_PREFERENCES
 // BEGIN_INCLUDE
+#include "Forward unto dawn -1.dmm"
+#include "Forward unto dawn -2.dmm"
+#include "Forward unto dawn -3.dmm"
+#include "Forward unto dawn -4.dmm"
 #include "code\_macros.dm"
 #include "code\global.dm"
 #include "code\hub.dm"
